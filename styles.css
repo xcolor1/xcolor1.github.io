@@ -1,0 +1,27 @@
+
+header{
+    background-color: midnightblue;
+    padding: 15px; 
+    h1{
+       color: gold; 
+    }
+}
+.welcomeclass{
+    background-color: midnightblue;
+    border-radius: 30px;
+    width: 200px;
+    height: 400px;
+    padding: 15px;
+    h1{
+        color: gold;
+        
+    }
+    p{
+        color: red;
+        font-size: 25px;
+    }
+} 
+li{
+    color: red;
+    font-size: 25px;
+}
